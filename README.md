@@ -1,18 +1,45 @@
-# letmeask
+<p align="center">
+  <img alt="Letmeask" src="https://raw.githubusercontent.com/rocketseat-education/nlw-06-reactjs/3a34d644047e0ff7f4389edfb2d39ceda62fd8f7/.github/logo.svg" width="160px">
+</p>
+<h1 align="center">
+    <img alt="Letmeask" src="https://raw.githubusercontent.com/rocketseat-education/nlw-06-reactjs/3a34d644047e0ff7f4389edfb2d39ceda62fd8f7/.github/cover.svg" />
+</h1>
 
-Link da aplicação: https://letmeask-c1e80.web.app/
 
-Aplicação completa em React + Firebase
+## 🧪 Tecnologias
 
-Tela inicial da Aplicação:
-![image](https://user-images.githubusercontent.com/13503031/153068273-0424f0a3-0dc7-46f0-bc62-a48e0709e5f8.png)
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Tela de Autenticação com Google:
-![image](https://user-images.githubusercontent.com/13503031/153068372-6bc36dc8-fc3e-452e-8360-32170e922566.png)
+- [React](https://reactjs.org)
+- [Firebase](https://firebase.google.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-Tela da sala com perguntas:
-![image](https://user-images.githubusercontent.com/13503031/153068488-eb393b27-4e65-4140-88fd-0c20cf920e26.png)
+## 🎉 Aplicação Online
+O link da aplicação online funcionando é: https://letmeask-c1e80.web.app/
 
-Tela da sala na visão de Admin:
-![image](https://user-images.githubusercontent.com/13503031/153068526-52a9a309-13c7-4306-b226-cd2f93f4e425.png)
+## 💻 Projeto
 
+Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
+
+Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
+
+## 🚀 Como executar
+
+Clone o projeto e acesse a pasta do mesmo.
+
+```bash
+$ git clone https://github.com/viteras007/letmeask
+$ cd letmeask
+```
+
+Para iniciá-lo, siga os passos abaixo:
+```bash
+# Instalar as dependências
+$ yarn
+
+# Iniciar o projeto
+$ yarn start
+```
+O app estará disponível no seu browser pelo endereço http://localhost:3000.
+
+Lembrando que será necessário criar uma conta no [Firebase](https://firebase.google.com/) e um projeto para disponibilizar um Realtime Database.
